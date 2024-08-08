@@ -1,5 +1,7 @@
 ## boas vindas ao meu perfil
 
+Meu nome é Muriel Ityanagui
+
 - Estou estudando na [ALURA](https://www.alura.com.br)
 - Estou me estou me desenvolvendo no JavaScript
 - Utiliso este espaço para me organizar e para guardar meus projetos
